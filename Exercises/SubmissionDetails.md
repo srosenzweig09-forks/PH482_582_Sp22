@@ -4,6 +4,7 @@
 
 You will submit the Jupyter Notebooks as PDF.
 In Google Colab a PDF can be exported under `File` `Print` and then it depends on your operating system.
+For details on the submission of the exercises see [here](/Exercises/SubmissionDetails.md).
 
 ## File Name Convention
 
